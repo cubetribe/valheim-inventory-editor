@@ -1,0 +1,8 @@
+# Spielstände und Sicherungen gehören nicht ins Repo
+*.fch
+*.fch.old
+*.fch.tmp
+*.fwl
+*.db
+sicherung_*/
+__pycache__/

@@ -1,0 +1,230 @@
+# prefab<TAB>max stack (empty = unknown, look it up before creating new stacks)<TAB>English name<TAB>German name
+# Entries marked "#ok" were confirmed by hash against a real save file.
+# Ores and bars
+CopperOre	30	Copper ore	Kupfererz
+TinOre	30	Tin ore	Zinnerz
+IronScrap	30	Scrap iron	Eisenschrott
+SilverOre	30	Silver ore	Silbererz
+BlackMetalScrap	30	Black metal scrap	Schwarzmetallschrott
+CopperScrap	30	Copper scrap	Kupferschrott
+Copper	30	Copper	Kupfer
+Tin	30	Tin	Zinn
+Bronze	30	Bronze	Bronze
+Iron	30	Iron	Eisen #ok
+Silver	30	Silver	Silber
+BlackMetal	30	Black metal	Schwarzmetall
+FlametalOreNew	30	Flametal ore	Flammetallerz
+FlametalNew	30	Flametal	Flammetall
+# Basic materials
+Wood	50	Wood	Holz #ok
+FineWood	50	Fine wood	Feines Holz #ok
+RoundLog	50	Core wood	Kernholz #ok
+ElderBark	50	Ancient bark	Altholzrinde
+YggdrasilWood	50	Yggdrasil wood	Yggdrasilholz
+Blackwood	50	Blackwood	Schwarzholz
+Stone	50	Stone	Stein
+Flint	50	Flint	Feuerstein
+Resin	50	Resin	Harz
+LeatherScraps	50	Leather scraps	Lederfetzen
+DeerHide	50	Deer hide	Hirschhaut
+TrollHide	50	Troll hide	Trollhaut
+BoneFragments	50	Bone fragments	Knochenfragmente
+Coal	50	Coal	Kohle
+Feathers	50	Feathers	Federn
+Guck	50	Guck	Glibber
+Chitin	50	Chitin	Chitin
+Obsidian	50	Obsidian	Obsidian
+Crystal	50	Crystal	Kristall
+WolfPelt	50	Wolf pelt	Wolfsfell
+WolfFang	50	Wolf fang	Wolfszahn
+LoxPelt	50	Lox pelt	Loxfell
+LinenThread	50	Linen thread	Leinengarn
+Flax	50	Flax	Flachs
+Barley	50	Barley	Gerste
+BarleyFlour	50	Barley flour	Gerstenmehl
+Tar	50	Tar	Teer
+Needle	50	Needle	Nadel
+Thistle	50	Thistle	Distel
+Dandelion	50	Dandelion	Löwenzahn
+SurtlingCore	50	Surtling core	Surtlingkern
+GreydwarfEye	50	Greydwarf eye	Grauzwergenauge
+Bloodbag	50	Bloodbag	Blutbeutel
+Entrails	50	Entrails	Eingeweide
+Ooze	50	Ooze	Schleim
+WitheredBone	50	Withered bone	Verdorrter Knochen
+FreezeGland	50	Freeze gland	Frostdrüse
+HardAntler	50	Hard antler	Hartes Geweih
+AncientSeed	50	Ancient seed	Uralter Samen
+Coins	999	Coins	Münzen #ok
+Ruby		Ruby	Rubin
+Amber		Amber	Bernstein
+AmberPearl		Amber pearl	Bernsteinperle
+SilverNecklace		Silver necklace	Silberkette
+Cryptkey		Swamp key	Sumpfschlüssel
+# Arrows and bolts
+ArrowWood	100	Wood arrow	Holzpfeil #ok
+ArrowFlint	100	Flinthead arrow	Feuersteinpfeil
+ArrowFire	100	Fire arrow	Feuerpfeil #ok
+ArrowBronze	100	Bronzehead arrow	Bronzepfeil
+ArrowIron	100	Ironhead arrow	Eisenpfeil
+ArrowPoison	100	Poison arrow	Giftpfeil
+ArrowObsidian	100	Obsidian arrow	Obsidianpfeil
+ArrowFrost	100	Frost arrow	Frostpfeil
+ArrowSilver	100	Silver arrow	Silberpfeil
+ArrowNeedle	100	Needle arrow	Nadelpfeil
+ArrowCarapace	100	Carapace arrow	Panzerpfeil
+BoltBone	100	Bone bolt	Knochenbolzen
+BoltIron	100	Iron bolt	Eisenbolzen
+BoltBlackmetal	100	Black metal bolt	Schwarzmetallbolzen
+BoltCarapace	100	Carapace bolt	Panzerbolzen
+# Food, ingredients, meads (look up stack sizes)
+Raspberry		Raspberries	Himbeeren
+Blueberries		Blueberries	Blaubeeren
+Cloudberry		Cloudberries	Moltebeeren
+Mushroom		Mushroom	Pilz
+MushroomYellow		Yellow mushroom	Gelber Pilz
+MushroomBlue		Blue mushroom	Blauer Pilz
+Carrot		Carrot	Karotte
+Turnip		Turnip	Rübe
+Onion		Onion	Zwiebel
+Honey		Honey	Honig
+RawMeat		Boar meat	Rohes Wildschweinfleisch
+DeerMeat		Deer meat	Rohes Hirschfleisch
+NeckTail		Neck tail	Neckschwanz
+WolfMeat		Wolf meat	Rohes Wolfsfleisch
+LoxMeat		Lox meat	Rohes Loxfleisch
+SerpentMeat		Serpent meat	Seeschlangenfleisch
+CookedMeat		Cooked boar meat	Gebratenes Wildschweinfleisch
+CookedDeerMeat		Cooked deer meat	Gebratenes Hirschfleisch
+NeckTailGrilled		Grilled neck tail	Gegrillter Neckschwanz #ok
+CookedWolfMeat		Cooked wolf meat	Gebratenes Wolfsfleisch
+CookedLoxMeat		Cooked lox meat	Gebratenes Loxfleisch
+FishCooked		Cooked fish	Gebratener Fisch
+QueensJam		Queens jam	Königinnenmarmelade
+CarrotSoup		Carrot soup	Karottensuppe
+TurnipStew		Turnip stew	Rübeneintopf
+MinceMeatSauce		Minced meat sauce	Hackfleischsoße
+DeerStew		Deer stew	Hirscheintopf
+BoarJerky		Boar jerky	Wildschwein-Trockenfleisch
+Sausages		Sausages	Würste
+BlackSoup		Black soup	Schwarze Suppe
+SerpentStew		Serpent stew	Seeschlangeneintopf
+OnionSoup		Onion soup	Zwiebelsuppe
+WolfJerky		Wolf jerky	Wolfs-Trockenfleisch
+WolfMeatSkewer		Wolf skewer	Wolfsfleischspieß
+Eyescream		Eyescream	Augeneis
+Bread		Bread	Brot
+LoxPie		Lox meat pie	Loxpastete
+FishWraps		Fish wraps	Fischwraps
+BloodPudding		Blood pudding	Blutpudding
+MeadHealthMinor		Minor healing mead	Kleiner Heilmet
+MeadHealthMedium		Medium healing mead	Mittlerer Heilmet
+MeadHealthMajor		Major healing mead	Großer Heilmet
+MeadStaminaMinor		Minor stamina mead	Kleiner Ausdauermet
+MeadStaminaMedium		Medium stamina mead	Mittlerer Ausdauermet
+MeadPoisonResist		Poison resistance mead	Giftresistenz-Met
+MeadFrostResist		Frost resistance mead	Frostresistenz-Met
+MeadTasty		Tasty mead	Leckerer Met
+BarleyWine		Fire resistance barley wine	Feuerresistenz-Gerstenwein
+# Tools
+Hammer		Hammer	Hammer #ok
+Hoe		Hoe	Hacke
+Cultivator		Cultivator	Kultivator
+Torch		Torch	Fackel
+FishingRod		Fishing rod	Angel
+Lantern		Dvergr lantern	Dvergr-Laterne
+Demister		Wisplight	Wisplicht
+AxeStone		Stone axe	Steinaxt
+AxeFlint		Flint axe	Feuersteinaxt
+AxeBronze		Bronze axe	Bronzeaxt
+AxeIron		Iron axe	Eisenaxt
+AxeBlackMetal		Black metal axe	Schwarzmetallaxt
+PickaxeAntler		Antler pickaxe	Geweihspitzhacke
+PickaxeBronze		Bronze pickaxe	Bronzespitzhacke #ok
+PickaxeIron		Iron pickaxe	Eisenspitzhacke
+PickaxeBlackMetal		Black metal pickaxe	Schwarzmetallspitzhacke
+# Weapons
+Club		Club	Knüppel
+KnifeFlint		Flint knife	Feuersteinmesser #ok
+KnifeCopper		Copper knife	Kupfermesser
+KnifeChitin		Abyssal razor	Abyssal-Klinge
+KnifeBlackMetal		Black metal knife	Schwarzmetallmesser
+SpearFlint		Flint spear	Feuersteinspeer
+SpearBronze		Bronze spear	Bronzespeer
+SpearElderbark		Ancient bark spear	Altholzspeer
+SpearChitin		Abyssal harpoon	Abyssal-Harpune
+SpearWolfFang		Fang spear	Fangspeer
+MaceBronze		Bronze mace	Bronzestreitkolben
+MaceIron		Iron mace	Eisenstreitkolben #ok
+MaceSilver		Frostner	Frostner
+MaceNeedle		Porcupine	Porcupine
+SwordBronze		Bronze sword	Bronzeschwert
+SwordIron		Iron sword	Eisenschwert
+SwordSilver		Silver sword	Silberschwert
+SwordBlackmetal		Black metal sword	Schwarzmetallschwert
+AtgeirBronze		Bronze atgeir	Bronze-Atgeir
+AtgeirIron		Iron atgeir	Eisen-Atgeir
+AtgeirBlackmetal		Black metal atgeir	Schwarzmetall-Atgeir
+Battleaxe		Battleaxe	Kampfaxt
+BattleaxeCrystal		Crystal battleaxe	Kristall-Kampfaxt
+Sledge		Stagbreaker	Hirschbrecher
+SledgeIron		Iron sledge	Eisenvorschlaghammer
+FistFenrirClaw		Flesh rippers	Fenrisklauen
+Bow		Crude bow	Krummbogen
+BowFineWood		Finewood bow	Feinholzbogen #ok
+BowHuntsman		Huntsman bow	Jägerbogen
+BowDraugrFang		Draugr fang	Draugrzahn
+BowSpineSnap		Spinesnap	Rückgratbrecher
+CrossbowArbalest		Arbalest	Armbrust
+Tankard		Tankard	Krug
+# Shields
+ShieldWood		Wood shield	Holzschild
+ShieldWoodTower		Wood tower shield	Holzturmschild
+ShieldBronzeBuckler		Bronze buckler	Bronze-Faustschild
+ShieldBanded		Banded shield	Beschlagener Schild
+ShieldIronBuckler		Iron buckler	Eisen-Faustschild #ok
+ShieldIronSquare		Iron shield	Eisenschild
+ShieldIronTower		Iron tower shield	Eisenturmschild
+ShieldSilver		Silver shield	Silberschild
+ShieldSerpentscale		Serpent scale shield	Seeschlangenschuppen-Schild
+ShieldBlackmetal		Black metal shield	Schwarzmetallschild
+ShieldBlackmetalTower		Black metal tower shield	Schwarzmetall-Turmschild
+ShieldCarapace		Carapace shield	Panzerschild
+ShieldBoneTower		Bone tower shield	Knochenturmschild
+# Armor and capes
+ArmorRagsChest		Rag tunic	Lumpenhemd
+ArmorRagsLegs		Rag pants	Lumpenhose
+ArmorLeatherChest		Leather tunic	Lederhemd
+ArmorLeatherLegs		Leather pants	Lederhose
+HelmetLeather		Leather helmet	Lederhelm
+ArmorTrollLeatherChest		Troll leather tunic	Trollleder-Tunika #ok
+ArmorTrollLeatherLegs		Troll leather pants	Trollleder-Hose #ok
+HelmetTrollLeather		Troll leather helmet	Trollleder-Helm #ok
+ArmorBronzeChest		Bronze plate cuirass	Bronze-Brustpanzer
+ArmorBronzeLegs		Bronze plate leggings	Bronze-Beinschienen
+HelmetBronze		Bronze helmet	Bronzehelm
+ArmorIronChest		Iron scale mail	Eisen-Schuppenpanzer #ok
+ArmorIronLegs		Iron greaves	Eisen-Beinschienen #ok
+HelmetIron		Iron helmet	Eisenhelm #ok
+ArmorWolfChest		Wolf armor chest	Wolfsrüstung Brust
+ArmorWolfLegs		Wolf armor legs	Wolfsrüstung Beine
+HelmetDrake		Drake helmet	Drachenhelm
+ArmorPaddedCuirass		Padded cuirass	Gepolsterter Kürass
+ArmorPaddedGreaves		Padded greaves	Gepolsterte Beinschienen
+HelmetPadded		Padded helmet	Gepolsterter Helm
+ArmorCarapaceChest		Carapace breastplate	Panzer-Brustplatte
+ArmorCarapaceLegs		Carapace greaves	Panzer-Beinschienen
+HelmetCarapace		Carapace helmet	Panzerhelm
+ArmorRootChest		Root harnesk	Wurzelharnisch
+ArmorRootLegs		Root leggings	Wurzel-Beinkleider
+HelmetRoot		Root mask	Wurzelmaske
+HelmetDverger		Dverger circlet	Dverger-Stirnreif
+HelmetYule		Yule hat	Weihnachtsmütze
+CapeDeerHide		Deer hide cape	Hirschfellumhang
+CapeTrollHide		Troll hide cape	Trollfellumhang #ok
+CapeWolf		Wolf fur cape	Wolfsfellumhang
+CapeLox		Lox cape	Loxfellumhang
+CapeLinen		Linen cape	Leinenumhang
+CapeFeather		Feather cape	Federumhang
+BeltStrength		Megingjord	Megingjord
+Wishbone		Wishbone	Wunschknochen

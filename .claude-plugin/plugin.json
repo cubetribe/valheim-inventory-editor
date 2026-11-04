@@ -1,0 +1,13 @@
+{
+  "name": "valheim-inventory",
+  "description": "Valheim inventory and character save editor (.fch): add items, resources, coins and arrows, set amounts, remove items and duplicate gear, with automatic backups and verification.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Dennis Westermann",
+    "url": "https://github.com/cubetribe"
+  },
+  "homepage": "https://github.com/cubetribe/valheim-inventory-editor",
+  "repository": "https://github.com/cubetribe/valheim-inventory-editor",
+  "license": "MIT",
+  "keywords": ["valheim", "save-editor", "inventory-editor", "character-editor", "fch", "item-spawner", "gaming"]
+}

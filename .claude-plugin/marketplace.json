@@ -1,0 +1,15 @@
+{
+  "name": "valheim-inventory-editor",
+  "description": "Valheim inventory and save editor skill for Claude Code",
+  "owner": {
+    "name": "Dennis Westermann",
+    "url": "https://github.com/cubetribe"
+  },
+  "plugins": [
+    {
+      "name": "valheim-inventory",
+      "source": "./",
+      "description": "Edit your Valheim character's inventory (.fch save) with Claude: add items, resources and coins with automatic backups."
+    }
+  ]
+}
